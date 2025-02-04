@@ -27,7 +27,7 @@
 
 ![moebius art](images/moe.jpg)
 
-![moebius art 2](images/moebius.jpg "moebius art")
+![moebius art 3](images/lolol.jpg)
 
 ## Credits
 
