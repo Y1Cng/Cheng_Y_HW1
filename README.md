@@ -1,17 +1,17 @@
 # Homwork 1 Assignment
-## Team ?? 
+## Team Steak
 
 *Group Member 1*
 **Yi**
 
+### 
 
-## History
-
-TODO: Write history
+### My Favorite Website
+[Newsblur]()
 
 ## Credits
 
-Yi Cheng
+Yi Cheng, Liam Kuchta
 
 ## License
 
