@@ -1,5 +1,5 @@
 # Homework 1 Assignment
-## Team Steak
+## Team Steak (Yi Cheng, Liam Kuchta)
 
 *Group Member 1*
 **Yi**
