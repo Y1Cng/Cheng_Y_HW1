@@ -15,6 +15,18 @@
 ### This is a picture of my minimalist drawing
 ![An unhappy face](images/unhappy_face.svg)
 
+**Group Member #2**
+*Liam*
+
+## These are my favorite artists
+- David Rappeneau
+- Moebius
+- Luke Hannam
+
+## These are my favorite Moebius images
+
+![moebius art](images/moe.jpg)
+![moebius art](images/moebius.jpg)
 
 ## Credits
 
