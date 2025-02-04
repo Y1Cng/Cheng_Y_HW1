@@ -18,6 +18,9 @@
 **Group Member #2**
 *Liam*
 
+## Liam's Bio
+Hello, my name is Liam Kuchta. I am a traditional artist from London, Ontario. I'm 25 years old. I am also studying web design at Fanshawe.
+
 ## These are my favorite artists
 - David Rappeneau
 - Moebius
