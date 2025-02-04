@@ -26,7 +26,7 @@
 ## These are my favorite Moebius images
 
 ![moebius art](images/moe.jpg)
-![moebius art](images/moebius.jpg)
+![moebius art](images/moebius.jpg "moebius art")
 
 ## Credits
 
