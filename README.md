@@ -13,7 +13,7 @@
 3. UK
 
 ### This is a picture of my minimalist drawing
-![An uphappy face](images/unhappy_face.svg)
+![An unhappy face](images/unhappy_face.svg)
 
 
 ## Credits
