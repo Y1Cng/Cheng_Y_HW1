@@ -30,7 +30,7 @@ Hello, my name is Liam Kuchta. I am a traditional artist from London, Ontario. I
 
 ![moebius art](images/moe.jpg)
 
-![moebius art 3](images/lolol.jpg)
+![moebius art 3](images/mo.jpg)
 
 ## Credits
 
