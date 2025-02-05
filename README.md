@@ -19,18 +19,20 @@
 *Liam*
 
 ## Liam's Bio
-Hello, my name is Liam Kuchta. I am a traditional artist from London, Ontario. I'm 25 years old. I am also studying web design at Fanshawe.
+Hello, my name is Liam Kuchta. I am a traditional artist from London, Ontario. I'm 25 years old. I am also studying web design at Fanshawe. I went backpacking around Europe this past summer and it was the best time of my life. I spent 10 grand. I love to hike mountains which is what i did in switzerland, france, and norway. I plan to make a living from my drawings in the future.
 
-## These are my favorite artists
+## These are my favorite visual artists:
 - David Rappeneau
 - Moebius
 - Luke Hannam
 
-## These are my favorite Moebius images
+## These are my favorite Moebius images:
 
 ![moebius art](images/moe.jpg)
 
 ![moebius art 3](images/mo.jpg)
+
+![moebius art 3](images/bius.jpg)
 
 ## Credits
 
